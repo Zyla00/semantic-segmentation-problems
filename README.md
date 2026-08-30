@@ -17,6 +17,13 @@ The Breast Ultrasound Dataset consists of ultrasound images from 600 female pati
   - **Benign:** 437 images with 454 masks.
   - **Malignant:** 210 images with 211 masks.
 
+<img width="368" height="146" alt="image" src="https://github.com/user-attachments/assets/ed8efbee-f221-4832-b0d0-910aad5ba41d" />
+
+<img width="356" height="134" alt="image" src="https://github.com/user-attachments/assets/c24ffd36-2543-4ca7-a34a-a64a67441d07" />
+
+<img width="377" height="141" alt="image" src="https://github.com/user-attachments/assets/7a417125-62e8-4bdb-99cf-1a5a793b9df7" />
+
+
 ## Models Explored
 
 Several state-of-the-art models for semantic segmentation were analyzed and tested for their applicability in medical imaging, specifically for breast cancer detection:
