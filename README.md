@@ -39,6 +39,22 @@ Several state-of-the-art models for semantic segmentation were analyzed and test
 4. **PSPNet**
 
 ## Results
+<p>
+<img width="433" height="197" alt="image" src="https://github.com/user-attachments/assets/22c072df-550a-4462-a9fb-9be5687853f3" />
+</p>
+
+<p>
+<img width="433" height="197" alt="image" src="https://github.com/user-attachments/assets/0469bdec-52d7-4056-9171-1db5340fb917" />
+</p>
+<p>
+
+</p>
+<p>
+
+</p>
+<p>
+
+</p>
 
 ### Performance Analysis
 
