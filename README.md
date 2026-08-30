@@ -20,10 +20,10 @@ The Breast Ultrasound Dataset consists of ultrasound images from 600 female pati
 <img width="368" height="146" alt="image" src="https://github.com/user-attachments/assets/ed8efbee-f221-4832-b0d0-910aad5ba41d" />
 </p>
 <p>
-<img width="356" height="134" alt="image" src="https://github.com/user-attachments/assets/c24ffd36-2543-4ca7-a34a-a64a67441d07" />
+<img width="368" height="146" alt="image" src="https://github.com/user-attachments/assets/c24ffd36-2543-4ca7-a34a-a64a67441d07" />
 </p>
 <p>
-<img width="377" height="141" alt="image" src="https://github.com/user-attachments/assets/7a417125-62e8-4bdb-99cf-1a5a793b9df7" />
+<img width="368" height="146" alt="image" src="https://github.com/user-attachments/assets/7a417125-62e8-4bdb-99cf-1a5a793b9df7" />
 </p>
 
 ## Models Explored
