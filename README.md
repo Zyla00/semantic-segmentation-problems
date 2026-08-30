@@ -47,7 +47,7 @@ Several state-of-the-art models for semantic segmentation were analyzed and test
 <img width="433" height="197" alt="image" src="https://github.com/user-attachments/assets/0469bdec-52d7-4056-9171-1db5340fb917" />
 </p>
 <p>
-
+<img width="269" height="157" alt="image" src="https://github.com/user-attachments/assets/8389603d-0001-4eef-825a-8c99fa4a505a" />
 </p>
 <p>
 
