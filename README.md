@@ -50,10 +50,14 @@ Several state-of-the-art models for semantic segmentation were analyzed and test
 <img width="269" height="157" alt="image" src="https://github.com/user-attachments/assets/8389603d-0001-4eef-825a-8c99fa4a505a" />
 </p>
 <p>
-
+<img width="433" height="197" alt="image" src="https://github.com/user-attachments/assets/d01a9f12-4d59-45a7-a006-b37637f84d9e" />
 </p>
 <p>
+<img width="383" height="155" alt="image" src="https://github.com/user-attachments/assets/1b18433a-ccb4-42ce-bdaf-78696ec90142" />
+</p>
 
+<p>
+<img width="146" height="257" alt="image" src="https://github.com/user-attachments/assets/54acbccd-d472-44c7-ba01-ce98cfb21287" />
 </p>
 
 ### Performance Analysis
