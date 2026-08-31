@@ -36,6 +36,19 @@ Several state-of-the-art models for semantic segmentation were analyzed and test
 4. **PSPNet**
 
 ## Results
+The FCN model employs a sophisticated architecture with an encoder for
+downsampling, a dense bottleneck layer, and a decoder for upsampling. Skip
+connections are utilized to retain spatial information across layers, enhancing
+segmentation accuracy.
+The model demonstrated high accuracy and low loss on training data, indicating
+effective learning.
+While validation accuracy and loss showed some fluctuations, indicating potential
+overfitting, the use of regularization and early stopping successfully alleviated this
+issue.
+Training losses consistently decreased, whereas validation losses exhibited some
+variability, underscoring the ongoing challenge of ensuring the model's
+generalization to unseen data.
+
 <p>
 <img width="433" height="197" alt="image" src="https://github.com/user-attachments/assets/22c072df-550a-4462-a9fb-9be5687853f3" />
 </p>
