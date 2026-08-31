@@ -70,6 +70,19 @@ generalization to unseen data.
 <p>
 <img width="433" height="197" alt="image" src="https://github.com/user-attachments/assets/1b18433a-ccb4-42ce-bdaf-78696ec90142" />
 </p>
+
+Predictions cover similar areas as ground truth masks but
+are somewhat blurry and less precise, with blurred edges.
+Instances of false positives occur, with predictions
+extending beyond the actual lesions, indicating over
+prediction.
+Predictions generally align well with ground truth masks in
+shape and size, showing overall accuracy in identifying
+regions of interest.
+The model consistently predicts slightly larger regions than
+actual lesions, suggesting overestimation of abnormal tissue
+extent
+
 <p>
 <img width="292" height="514" alt="image" src="https://github.com/user-attachments/assets/54acbccd-d472-44c7-ba01-ce98cfb21287" />
 </p>
