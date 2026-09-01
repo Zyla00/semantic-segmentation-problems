@@ -32,8 +32,11 @@ Several state-of-the-art models for semantic segmentation were analyzed and test
 
 1. **U-Net**
 2. **Fully Convolutional Network (FCN)**
-3. **SegNet**
-4. **PSPNet**
+  - Added layers for encoding (downsampling) and decoding (upsampling).
+  - Skip connections to retain spatial features across layers.
+  - Bottleneck layer for dense feature extraction.
+4. **SegNet**
+5. **PSPNet**
 
 ## Results
 The FCN model employs a sophisticated architecture with an encoder for
